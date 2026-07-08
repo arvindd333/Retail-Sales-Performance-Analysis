@@ -12,7 +12,11 @@ Original file is located at
 
 ### Project Overview
 
-This project analyzes retail sales data to uncover business insights related to sales performance, profitability, customer behavior, product performance, and regional trends. The analysis includes data cleaning, feature engineering, exploratory data analysis (EDA), data visualization, and business recommendations to support data-driven decision-making.
+This project analyzes retail sales data to uncover business insights 
+related to sales performance, profitability, customer behavior, product 
+performance, and regional trends. The analysis includes data cleaning, 
+feature engineering, exploratory data analysis (EDA), data visualization, 
+and business recommendations to support data-driven decision-making.
 
 # 2.Project Objectives
 
@@ -398,79 +402,101 @@ print(f"Overall Profit Margin : {overall_profit_margin}%")
 
 ### 1. Technology was the most profitable category.
 
-Technology generated the highest overall profit margin, making it the strongest-performing product category.
+Technology generated the highest overall profit margin, making it the 
+strongest-performing product category.
 
 ---
 
 ### 2. Furniture requires attention.
 
-Although Furniture generated high sales, its profit margin was significantly lower than other categories, indicating pricing or discount challenges.
+Although Furniture generated high sales, its profit margin was significantly 
+lower than other categories, indicating pricing or discount challenges.
 
 ---
 
 ### 3. Discounts affected profitability.
 
-Orders with discounts greater than 30% frequently resulted in financial losses, suggesting that aggressive discounting reduced profitability.
+Orders with discounts greater than 30% frequently resulted in financial losses, 
+suggesting that aggressive discounting reduced profitability.
 
 ---
 
 ### 4. California was the top-performing state.
 
-California contributed the highest overall profit, making it one of the company's strongest markets.
+California contributed the highest overall profit, making it 
+one of the company's strongest markets.
 
 ---
 
 ### 5. A small number of products generated major losses.
 
-Certain products consistently produced negative profits and should be reviewed for pricing, supplier cost, or discontinuation.
+Certain products consistently produced negative profits and should 
+be reviewed for pricing, supplier cost, or discontinuation.
 
 ---
 
 ### 6. Customer concentration.
 
-A relatively small group of customers generated a significant portion of total sales, highlighting the importance of customer retention.
+A relatively small group of customers generated a significant portion 
+of total sales, highlighting the importance of customer retention.
 
 ---
 
 ### 7. Monthly sales fluctuated throughout the year.
 
-Seasonal demand patterns indicate opportunities for inventory planning and promotional campaigns.
+Seasonal demand patterns indicate opportunities for inventory 
+planning and promotional campaigns.
 
 ---
 
 ### 8. Correlation analysis.
 
-The correlation matrix showed a negative relationship between Discount and Profit, reinforcing the impact of excessive discounting on business performance.
+The correlation matrix showed a negative relationship between Discount and Profit, 
+reinforcing the impact of excessive discounting on business performance.
 
 # 11.Business Recommendations
 
 Based on the analysis, the following recommendations are suggested:
 
-1. Review discount strategies for products with consistently negative profits to improve profitability.
+1. Review discount strategies for products with consistently negative 
+   profits to improve profitability.
 
 2. Focus marketing and inventory investments on high-performing Technology products.
 
-3. Reassess pricing, supplier costs, and discount policies for Furniture products to improve profit margins.
+3. Reassess pricing, supplier costs, and discount policies for Furniture 
+   products to improve profit margins.
 
-4. Strengthen customer retention programs for repeat customers through loyalty rewards and personalized offers.
+4. Strengthen customer retention programs for repeat customers through loyalty 
+   rewards and personalized offers.
 
-5. Increase business expansion efforts in high-performing states such as California and New York while identifying growth opportunities in lower-performing regions.
+5. Increase business expansion efforts in high-performing states such as California 
+   and New York while identifying growth opportunities in lower-performing regions.
 
-6. Monitor loss-making products regularly and consider repricing or discontinuing products with consistently negative returns.
+6. Monitor loss-making products regularly and consider repricing or discontinuing 
+   products with consistently negative returns.
 
-7. Utilize seasonal sales trends for better inventory planning, demand forecasting, and promotional campaigns.
+7. Utilize seasonal sales trends for better inventory planning, demand forecasting, 
+   and promotional campaigns.
 
-8. Build interactive dashboards to continuously monitor key business KPIs and support management decision-making.
+8. Build interactive dashboards to continuously monitor key business KPIs and 
+   support management decision-making.
 
 # 12.Conclusion
 
-This project presented an end-to-end retail sales performance analysis using Python and data analytics techniques.
+This project presented an end-to-end retail sales performance analysis using 
+Python and data analytics techniques.
 
-The workflow included data cleaning, feature engineering, exploratory data analysis, KPI reporting, business visualization, and interpretation of results.
+The workflow included data cleaning, feature engineering, exploratory data analysis, 
+KPI reporting, business visualization, and interpretation of results.
 
-The analysis identified Technology as the highest-performing category, while Furniture showed opportunities for improving profitability. High discount levels were associated with lower profits, emphasizing the importance of balanced pricing strategies.
+The analysis identified Technology as the highest-performing category, 
+while Furniture showed opportunities for improving profitability. High 
+discount levels were associated with lower profits, emphasizing the 
+importance of balanced pricing strategies.
 
-Overall, the findings provide actionable insights that can help management improve profitability, optimize inventory, strengthen customer retention, and support data-driven business decisions.
+Overall, the findings provide actionable insights that can help management 
+improve profitability, optimize inventory, strengthen customer retention, 
+and support data-driven business decisions.
 
 # 13.Future Enhancements
 
@@ -490,7 +516,6 @@ Future versions of this project can include:
 
 ### Libraries
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 
