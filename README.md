@@ -1,34 +1,36 @@
 # 📊 Retail Sales Performance Analysis
 
+## 🚀 Project Status
 
+**Version:** 1.0
+
+✅ Completed
 - Data Cleaning
 - Feature Engineering
 - Exploratory Data Analysis (EDA)
 - Data Visualization
-- KPI Analysis
 - Business Insights
 - Business Recommendations
-- Interactive Google Data Studio Dashboard
-- Dashboard Screenshots
+- Interactive Dashboard (Google Looker Studio)
 
 ---
 
 # 📖 Project Overview
 
-This project presents an end-to-end analysis of a retail sales dataset using Python. The objective is to identify business trends, evaluate product and customer performance, analyze profitability, and provide actionable business recommendations through data-driven insights.
+This project presents an end-to-end Retail Sales Performance Analysis using Python and Google Looker Studio. The objective is to analyze retail sales data, identify profitability trends, understand customer purchasing behavior, and generate actionable business insights to support data-driven decision-making.
 
 ---
 
 # 🎯 Project Objectives
 
-- Analyze overall sales and profit performance.
-- Identify the most profitable product categories.
-- Analyze customer purchasing behavior.
-- Evaluate product performance.
-- Identify loss-making products.
-- Study the impact of discounts on profitability.
-- Analyze state-wise and regional sales performance.
-- Generate business insights and recommendations.
+- Analyze overall sales and profitability.
+- Identify top-performing product categories.
+- Evaluate customer purchasing behavior.
+- Detect loss-making products.
+- Analyze the impact of discounts on profit.
+- Study regional and state-wise performance.
+- Build an interactive business dashboard.
+- Provide business recommendations based on the findings.
 
 ---
 
@@ -39,7 +41,7 @@ This project presents an end-to-end analysis of a retail sales dataset using Pyt
 - Matplotlib
 - Seaborn
 - Google Colab
-- Google Data Studio
+- Google Looker Studio
 
 ---
 
@@ -47,8 +49,8 @@ This project presents an end-to-end analysis of a retail sales dataset using Pyt
 
 **Dataset:** Sample Superstore Dataset
 
-- Total Records: **9,994**
-- Total Features: **21**
+- Records: **9,994**
+- Features: **21**
 
 ---
 
@@ -59,74 +61,47 @@ This project presents an end-to-end analysis of a retail sales dataset using Pyt
 3. Feature Engineering
 4. Exploratory Data Analysis (EDA)
 5. Data Visualization
-6. Executive KPI Summary
+6. KPI Analysis
 7. Business Insights
 8. Business Recommendations
-9. Conclusion
+9. Interactive Dashboard (Google Looker Studio)
 
 ---
 
-# 📊 Key Business Insights
+# 📊 Dashboard Preview
+<img width="725" height="544" alt="Retail Sales Performance Dashboard" src="https://github.com/user-attachments/assets/4739f174-4b7e-481e-a079-4186a878053b" />
+
+---
+
+# 🔗 Interactive Dashboard
+
+**View the live Google Looker Studio Dashboard:**
+
+https://datastudio.google.com/s/lvaSLfD_kqM
+
+---
+
+# 📈 Key Business Insights
 
 - Technology generated the highest overall sales and profit.
 - Furniture achieved strong sales but comparatively lower profit margins.
 - Copiers were the highest profit-generating products, while Printers generated the highest losses.
-- Repeat customers contributed significantly to overall sales.
-- California and New York generated the highest profits.
+- California and New York contributed the highest profits.
 - West and East regions outperformed South and Central.
-- Sales peaked during August, September, and October.
 - Higher discounts were associated with lower profitability.
+- Sales peaked during August, September, and October.
+- Repeat customers contributed significantly to overall revenue.
 
 ---
 
 # 💡 Business Recommendations
 
-- Review discount policies for loss-making products.
-- Focus inventory and marketing on high-performing Technology products.
-- Improve profitability of Furniture products through pricing and cost optimization.
-- Strengthen customer loyalty programs.
-- Expand business opportunities in lower-performing regions.
-- Monitor loss-making products regularly.
-
----
-
-# 📈 Visualizations
-
-This project includes:
-
-- Sales by Category
-- Profit by Category
-- Monthly Sales Trend
-- Top 10 Products by Profit
-- Top 10 Loss-Making Products
-- Discount vs Profit
-- State-wise Profit Analysis
-- Correlation Heatmap
-
----
-
-# 🚀 Future Enhancements
-
-- Interactive Power BI Dashboard
-- SQL Database Integration
-- API-based Data Refresh
-- Sales Forecasting using Machine Learning
-- Streamlit Dashboard Deployment
-
----
-
-# 📁 Project Structure
-
-```text
-Retail-Sales-Performance-Analysis/
-│
-├── README.md
-├── requirements.txt
-├── Retail_Sales_Performance_Analysis.ipynb
-├── Sample - Superstore.csv
-├── Retail_Sales_Cleaned.csv
-└── images/
-```
+- Review discount strategies for products generating consistent losses.
+- Improve profitability of Furniture products through pricing optimization.
+- Focus inventory and marketing investments on high-performing Technology products.
+- Strengthen customer loyalty programs for repeat customers.
+- Expand growth initiatives in lower-performing regions.
+- Monitor loss-making products regularly and evaluate pricing decisions.
 
 ---
 
@@ -139,12 +114,40 @@ Retail-Sales-Performance-Analysis/
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Business Intelligence
+- Dashboard Development
 - KPI Reporting
-- Business Recommendations
+- Business Analysis
+- Interactive Dashboard (Google Looker Studio)
 
 ---
 
-## 👨‍💻 Author
+# 🚀 Future Enhancements
+
+- SQL database integration
+- Automated API-based data refresh
+- Sales forecasting using Machine Learning
+- Customer Segmentation
+- Streamlit Dashboard Deployment
+
+---
+
+# 📁 Repository Structure
+
+```text
+Retail-Sales-Performance-Analysis/
+│
+├── README.md
+├── requirements.txt
+├── Retail_Sales_Performance_Analysis.ipynb
+├── Sample - Superstore.csv
+├── Retail_Sales_Cleaned.csv
+└── images/
+    └── dashboard.png
+```
+
+---
+
+# 👨‍💻 Author
 
 **Arvind Anand Dyavanapelli**
 
