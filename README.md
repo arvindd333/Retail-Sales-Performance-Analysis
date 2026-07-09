@@ -1,10 +1,6 @@
 # 📊 Retail Sales Performance Analysis
 
-## 🚧 Project Status
 
-**Version:** 1.0
-
-✅ Completed
 - Data Cleaning
 - Feature Engineering
 - Exploratory Data Analysis (EDA)
@@ -12,9 +8,7 @@
 - KPI Analysis
 - Business Insights
 - Business Recommendations
-
-🚀 Coming Soon
-- Interactive Power BI Dashboard
+- Interactive Google Data Studio Dashboard
 - Dashboard Screenshots
 
 ---
@@ -45,6 +39,7 @@ This project presents an end-to-end analysis of a retail sales dataset using Pyt
 - Matplotlib
 - Seaborn
 - Google Colab
+- Google Data Studio
 
 ---
 
